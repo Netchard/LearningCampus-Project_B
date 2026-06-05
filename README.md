@@ -16,3 +16,10 @@ Auteur : Didier Chardonnet - 2026-06
   - Analyse des intervenants Personas et groupes [Voir Doc](./Projet%20B%20-%20Sequence%201.1%20-%20Analyse%20des%20Intervenants.pdf)  
   - Prompt de génération du document [Voir Doc](./Projet%20B%20-%20S%C3%A9quence%201.2%20-%20Prompt%20de%20g%C3%A9n%C3%A9ration%20du%20document%20d%E2%80%99analyse.pdf)
   - Document final [Voir Doc](./Projet%20B%20-%20Sequance%201.3%20-%20studyflow-ai-document-de-profils-utilisateurs-1.pdf)
+
+### Sequence 2 - Identifier les fonctionnalités principales 
+  - Prompt des fonctionnalités principales [Voir Doc](./Projet%20B%20-%20S%A9quence%202.0%20-%20Prompt%20Fonctionnalités%20principales.pdf)
+  - Les Fonctionnalités [Voir Doc](Projet%20B%20-%20Séquence%202.1%20-%20foncitonnalités.pdf)
+  - Le backlogs [Voir Doc](Projet%20B%20-%20S%A9quence%202.2%20-%20studyflow-ai-backlog-v1-tableau-kanban.xlsx)
+    
+

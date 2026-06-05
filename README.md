@@ -11,6 +11,6 @@ Concevoir une application appelée StudyFlow AI
     
 - Sequence 1 - Identifier les utilisateurs et leurs besoins  
   - Prompt Identifier les utilisateurs et leur besoins [Voir Doc](./Projet%20B%20-%20S%C3%A9quence%201.0%20-%20Identifier%20les%20utilisateurs%20et%20leurs%20besoins%20IA.pdf)
-  - Analyse des intervenants Personas et groupes [Voir Doc](./Projet%20B%20-%20S%C3%A9quence%201.0%20-%20Identifier%20les%20utilisateurs%20et%20leurs%20besoins%20IA.pdf)
+  - Analyse des intervenants Personas et groupes [Voir Doc](./Projet%20B%20-%20Sequence%201.1%20-%20Analyse%20des%20Intervenants.pdf)  
   - Prompt de génération du document [Voir Doc](./Projet%20B%20-%20S%C3%A9quence%201.2%20-%20Prompt%20de%20g%C3%A9n%C3%A9ration%20du%20document%20d%E2%80%99analyse.pdf)
   - Document final [Voir Doc](./Projet%20B%20-%20Sequance%201.3%20-%20studyflow-ai-document-de-profils-utilisateurs-1.pdf)

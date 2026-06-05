@@ -4,7 +4,7 @@ Concevoir une application appelée StudyFlow AI
 # Projet B
 
 - Sequence 0 - Analyser le problème utilisateurt avec l'IA
-  -  Prompt initial [Voir Doc]
+  -  Prompt initial [Voir Doc] (./Projet B - Sequence 0.0 - Prompt Initial.docx.pdf)
   -  Formulaire de conception (IA) [Voir Doc]
   -  Description des fonctionnalités
   -  Analyse approfondie

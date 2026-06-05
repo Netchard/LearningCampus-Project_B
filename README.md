@@ -18,8 +18,8 @@ Auteur : Didier Chardonnet - 2026-06
   - Document final [Voir Doc](./Projet%20B%20-%20Sequance%201.3%20-%20studyflow-ai-document-de-profils-utilisateurs-1.pdf)
 
 ### Sequence 2 - Identifier les fonctionnalités principales 
-  - Prompt des fonctionnalités principales [Voir Doc](./Projet%20B%20-%20S%A9quence%202.0%20-%20Prompt%20Fonctionnalités%20principales.pdf)
-  - Les Fonctionnalités [Voir Doc](./Projet%20B%20-%20Séquence%202.1%20-%20foncitonnalités.pdf)
-  - Le backlogs [Voir Doc](./Projet%20B%20-%20Séquence%202.2%20-%20studyflow-ai-backlog-v1-tableau-kanban.xlsx)
+  - Prompt des fonctionnalités principales [Voir Doc](./Projet%20B%20-%20S%A9quence%202.0%20-%20Prompt%20Fonctionnalit%A9s%20principales.pdf)
+  - Les Fonctionnalités [Voir Doc](./Projet%20B%20-%20Séquence%202.1%20-%20foncitonnalit%A9s.pdf)
+  - Le backlogs [Voir Doc](./Projet%20B%20-%20S%A9quence%202.2%20-%20studyflow-ai-backlog-v1-tableau-kanban.xlsx)
     
 

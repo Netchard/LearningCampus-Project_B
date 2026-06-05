@@ -10,4 +10,7 @@ Concevoir une application appelée StudyFlow AI
   -  Analyse approfondie [Voir Doc](https://github.com/Netchard/LearningCampus-Project_B/blob/345e449846096a2f8cfcd4012df9022a8dc3005d/Projet%20B%20-%20Sequence%200.3%20-%20Analyse%20approfondie.pdf)
     
 - Sequence 1 - Identifier les utilisateurs et leur besoins  
-  
+  - Prompt Identifier les utilisateurs et leur besoins [Voir Doc]()
+  - Analyse des intervenants Personas et groupes [Voir Doc]()
+  - Prompt de génération du document [Voir Doc]()
+  - Document final [Voir Doc]()

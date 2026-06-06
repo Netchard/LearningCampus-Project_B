@@ -23,26 +23,26 @@ Auteur : Didier Chardonnet - 2026-06
   - Le backlogs [Voir Doc](./Projet%20B%20-%20S%C3%A9quence%202.2%20-%20studyflow-ai-backlog-v1-tableau-kanban.xlsx) 
 
 ### Sequence 3 - Concevoir l'architecture du produit 
-  - Prompts SiteMap, UserFlows, Architecture [Voir doc]()
-  - Le sitemap [Voir doc]()
-  - Les user flows [Voir doc]()
-  - L'Architecture [Voir doc]()
-  - 
+  - Prompts SiteMap, UserFlows, Architecture [Voir doc](Projet B - Séquence 3.0 - Prompts.pdf)
+  - Le sitemap [Voir doc](./Projet%20B%20-%20S%C3%A9quence%203.1%20Sitemap.pdf)
+  - Les user flows [Voir doc](./Projet%20B%20-%20S%C3%A9quence%203.2%20-%20User%20Flows.pdf)
+  - L'Architecture [Voir doc](./Projet%20B%20-%20S%C3%A9quence%203.3%20-%20Architecture.pdf)
+  - La navigation  [Voir doc](./Projet%20B%20-%20S%C3%A9quence%203.4%20-%20Navigation.pdf)
 #### Les flows -
 
-![Identification / Connexion](/Authentication Identification.png)
+![Identification / Connexion](./Authentication%20Identification.png)
   
-![ChatBot](/ChatBot.png)
+![ChatBot](./ChatBot.png)
 
-![Calendrier](/Calendrier.png)
+![Calendrier](./Calendrier.png)
 
-![Traitement des tâches](/Task%20Management%20Creation.png)
+![Traitement des tâches](./Task%20Management%20Creation.png)
 
-![Ressources](/Ressources.png)
+![Ressources](./Ressources.png)
 
-![Notification](/Notification.png)
+![Notification](./Notification.png)
 
-![Administration](/Notification.png)
+![Administration](./Notification.png)
 
 
   - 

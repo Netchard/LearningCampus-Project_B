@@ -35,18 +35,25 @@ Auteur : Didier Chardonnet - 2026-06
 
 #### Les flows -
 
+##### Identification 
 ![Identification / Connexion](./Authentication%20Identification.png)
-  
+
+##### Chatbot
 ![ChatBot](./ChatBot..png)
 
+##### Calendrier
 ![Calendrier](./Calendrier.png)
 
+##### Tâches
 ![Traitement des tâches](./Task%20Management%20Creation.png)
 
+##### Ressources
 ![Ressources](./Ressources.png)
 
+##### Notifications
 ![Notification](./Notification.png)
 
+##### Administration
 ![Administration](./Notification.png)
 
     

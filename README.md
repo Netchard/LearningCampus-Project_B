@@ -22,3 +22,22 @@ Auteur : Didier Chardonnet - 2026-06
   - Les Fonctionnalités [Voir Doc](./Projet%20B%20-%20S%C3%A9quence%202.1%20-%20foncitonnalit%C3%A9s.pdf)
   - Le backlogs [Voir Doc](./Projet%20B%20-%20S%C3%A9quence%202.2%20-%20studyflow-ai-backlog-v1-tableau-kanban.xlsx) 
 
+### Sequence 3 - Concevoir l'architecture du produit 
+  - Prompts SiteMap, UserFlows, Architecture [Voir doc]()
+  - Le sitemap [Voir doc]()
+  - Les user flows [Voir doc]()
+  - L'Architecture [Voir doc]()
+  - 
+#### Les flows -
+
+![Identification / Connexion](/Authentication Identification.png)
+![ChatBot](/ChatBot.png)
+![Calendrier](/Calendrier.png)
+![Traitement des tâches](/Task Management Creation.png)
+![Ressources](/Ressources.png)
+![Notification](/Notification.png)
+![Administration](/Notification.png)
+
+
+  - 
+  - 

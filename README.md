@@ -30,7 +30,7 @@ Auteur : Didier Chardonnet - 2026-06
   - Prompts SiteMap, UserFlows, Architecture [Voir doc](Projet B - Séquence 3.0 - Prompts.pdf)
   - Le sitemap [Voir doc](./Projet%20B%20-%20S%C3%A9quence%203.1%20Sitemap.pdf)
   - Les user flows [Voir doc](./Projet%20B%20-%20S%C3%A9quence%203.2%20-%20User%20Flows.pdf)
-  - L'Architecture [Voir doc](./Projet%20B%20-%20S%C3%A9quence%203.3%20-%20Architecture.pdf)
+  - L'Architecture [Voir doc](./Projet%20B%20-%20S%C3%A9quence%203.3%20-%20Architecture%20.pdf)
   - La navigation  [Voir doc](./Projet%20B%20-%20S%C3%A9quence%203.4%20-%20Navigation.pdf)
 
 #### Les flows -

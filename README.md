@@ -36,7 +36,7 @@ Auteur : Didier Chardonnet - 2026-06
 
 ![Calendrier](/Calendrier.png)
 
-![Traitement des tâches](/Task Management Creation.png)
+![Traitement des tâches](/Task%20Management%20Creation.png)
 
 ![Ressources](/Ressources.png)
 

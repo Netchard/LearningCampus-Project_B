@@ -31,11 +31,17 @@ Auteur : Didier Chardonnet - 2026-06
 #### Les flows -
 
 ![Identification / Connexion](/Authentication Identification.png)
+  
 ![ChatBot](/ChatBot.png)
+
 ![Calendrier](/Calendrier.png)
+
 ![Traitement des tâches](/Task Management Creation.png)
+
 ![Ressources](/Ressources.png)
+
 ![Notification](/Notification.png)
+
 ![Administration](/Notification.png)
 
 

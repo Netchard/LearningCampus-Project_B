@@ -37,7 +37,7 @@ Auteur : Didier Chardonnet - 2026-06
 
 ![Identification / Connexion](./Authentication%20Identification.png)
   
-![ChatBot](./ChatBot.png)
+![ChatBot](./ChatBot..png)
 
 ![Calendrier](./Calendrier.png)
 

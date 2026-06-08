@@ -27,13 +27,18 @@ Auteur : Didier Chardonnet - 2026-06
 
 ### Sequence 3 - Concevoir l'architecture du produit 
 
-  - Prompts SiteMap, UserFlows, Architecture [Voir doc](Projet B - Séquence 3.0 - Prompts.pdf)
+  - Prompts SiteMap, UserFlows, Architecture [Voir doc](Projet%20B-%20S%C3%A9quence%203.0%20-%20Prompts.pdf)
   - Le sitemap [Voir doc](./Projet%20B%20-%20S%C3%A9quence%203.1%20Sitemap.pdf)
   - Les user flows [Voir doc](./Projet%20B%20-%20S%C3%A9quence%203.2%20-%20User%20Flows.pdf)
-  - L'Architecture [Voir doc](./Projet%20B%20-%20S%C3%A9quence%203.3%20-%20Architecture%20.pdf)
+  - L'Architecture fonctionnelle  [Voir doc](./Projet%20B%20-%20S%C3%A9quence%203.3%20-%20Architecture%20.pdf)
   - La navigation  [Voir doc](./Projet%20B%20-%20S%C3%A9quence%203.4%20-%20Navigation.pdf)
+  - L'architecture technique [Voir Doc](Projet%20B-%20S%C3%A9quence%203.5%20-%20Architecture%20technique%20et%20moyens.pdf)
+  - Script de création de la base [Voir Doc](Projet%20B%20-%20S%C3%A9quence%203.6%20-%20Script%20de%20création%20de%20la%20base%20de%20données.pdf)
 
-#### Les flows -
+
+
+
+#### Annexes -
 
 ##### Identification 
 ![Identification / Connexion](./Authentication%20Identification.png)

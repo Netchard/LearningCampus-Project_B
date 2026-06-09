@@ -45,27 +45,30 @@ Auteur : Didier Chardonnet - 2026-06
 -   Script création de la base (2) [Voir Doc](Projet%20B%20-%20S%C3%A9quence%204.8%20-%20Script%20de%20cr%C3%A9ation%20de%20la%20base%20de%20donn%C3%A9es%20(2).pdf)
   
 
-#### Annexes -
+## Annexes -
 
-##### Identification 
+### Modèle conceptuel de données
+![Modele](./Modele.png)
+
+### Identification 
 ![Identification / Connexion](./Authentication%20Identification.png)
 
-##### Chatbot
+### Chatbot
 ![ChatBot](./ChatBot..png)
 
-##### Calendrier
+### Calendrier
 ![Calendrier](./Calendrier.png)
 
-##### Tâches
+### Tâches
 ![Traitement des tâches](./Task%20Management%20Creation.png)
 
-##### Ressources
+### Ressources
 ![Ressources](./Ressources.png)
 
-##### Notifications
+### Notifications
 ![Notification](./Notification.png)
 
-##### Administration
+### Administration
 ![Administration](./Notification.png)
 
     

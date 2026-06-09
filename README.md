@@ -35,8 +35,15 @@ Auteur : Didier Chardonnet - 2026-06
   - L'architecture technique [Voir Doc](Projet%20B-%20S%C3%A9quence%203.5%20-%20Architecture%20technique%20et%20moyens.pdf)
   - Script de création de la base [Voir Doc](Projet%20B%20-%20S%C3%A9quence%203.6%20-%20Script%20de%20cr%C3%A9ation%20de%20la%20base%20de%20donn%C3%A9es.pdf)
 
+### Sequence 4 - Définir les données nécessaires au fonctionnement
 
-
+-   Prompts [Voir Doc]()
+-   Vérification des cohérences [Voir Doc](Projet%20B%20-%20S%C3%A9quence%204.3%20-%20V%C3%A9rification%20de%20coh%C3%A9rence.pdf)
+-   Croisement des cohérences [Voir Doc](Projet%20B%20-%20S%C3%A9quence%204.4%20-%20Croisement%20de%20coh%C3%A9rence.pdf)
+-   Script création de la base (1) [Voir Doc](Projet%20B%20-%20S%C3%A9quence%204.5%20-%20Script%20de%20cr%C3%A9ation%20de%20la%20base%20de%20donn%C3%A9es.pdf)
+-   Modèle conceptuel de données [Voir Doc](Projet%20B%20-%20S%C3%A9quence%204.6%20-%20Modele%20conceptuel%20de%20donn%C3%A9es.pdf)
+-   Script création de la base (2) [Voir Doc](Projet%20B%20-%20S%C3%A9quence%204.8%20-%20Script%20de%20cr%C3%A9ation%20de%20la%20base%20de%20donn%C3%A9es%20(2).pdf)
+  
 
 #### Annexes -
 

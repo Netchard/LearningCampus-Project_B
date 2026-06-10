@@ -37,12 +37,21 @@ Auteur : Didier Chardonnet - 2026-06
 
 ### Sequence 4 - Définir les données nécessaires au fonctionnement
 
--   Prompts [Voir Doc]()
+-   Prompts [Voir Doc](Projet%20B%20-%20S%C3%A9%204.0%20-%20Prompts.pdf)
 -   Vérification des cohérences [Voir Doc](Projet%20B%20-%20S%C3%A9quence%204.3%20-%20V%C3%A9rification%20de%20coh%C3%A9rence.pdf)
 -   Croisement des cohérences [Voir Doc](Projet%20B%20-%20S%C3%A9quence%204.4%20-%20Croisement%20de%20coh%C3%A9rence.pdf)
 -   Script création de la base (1) [Voir Doc](Projet%20B%20-%20S%C3%A9quence%204.5%20-%20Script%20de%20cr%C3%A9ation%20de%20la%20base%20de%20donn%C3%A9es.pdf)
 -   Modèle conceptuel de données [Voir Doc](Projet%20B%20-%20S%C3%A9quence%204.6%20-%20Modele%20conceptuel%20de%20donn%C3%A9es.pdf)
 -   Script création de la base (2) [Voir Doc](Projet%20B%20-%20S%C3%A9quence%204.8%20-%20Script%20de%20cr%C3%A9ation%20de%20la%20base%20de%20donn%C3%A9es%20(2).pdf)
+
+### Sequence 5 - Intégration de l'IA dans l'expérience utilisateur
+
+-   Prompts [Voir Doc](Projet%20B%20-%20S%C3%A9quence%205.0%20-%20Prompts.pdf)
+-   IA Opportunités [Voir Doc](Projet%20B%20-%20S%C3%A9quence%205.1%20-%20IA%20Opportunit%C3%A9s.pdf)
+-   Comparaison Approche [Voir Doc](Projet%20B%20-%20S%C3%A9quence%205.2%20-%20Comparaison%20approche.pdf)
+-   Challenge des pertinences [Voir Doc](Projet%20B%20-%20S%C3%A9quence%205.3%20-%20Challenge%20des%20pertinences.pdf)
+-   Note de conception [Voir Doc](Projet%20B%20-%20S%C3%A9quence%205.4%20-%20Note%20de%20conception.pdf)
+
   
 
 ## Annexes -

@@ -5,7 +5,7 @@ Auteur : Didier Chardonnet - 2026-06
 
 ## Projet B
 
-### [Dossier de conception](./Projet%20B%20-%20Dossier-de-conception-studyflow-ai.pdf)
+### [Dossier de conception (Document final)](./Projet%20B%20-%20Dossier-de-conception-studyflow-ai.pdf)
 
 ### Sequence 0 - Analyser le problème utilisateurt avec l'IA
   
